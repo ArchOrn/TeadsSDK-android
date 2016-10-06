@@ -1,10 +1,23 @@
 # Changelog
 
+v2.2.13
+- improve tracking reliability
+- bug fix
+
+v2.2.11
+- funnel improvement
+- bug fix
+
+v2.2.10
+- brand logo
+- new endscreen
+- bug fix
+
 v2.2.8
 - minor bug fix
 
 v2.2.7
-- webview reuse enchancement
+- webview reuse improvement
 - minor improvements
 - minor bug fix
 
