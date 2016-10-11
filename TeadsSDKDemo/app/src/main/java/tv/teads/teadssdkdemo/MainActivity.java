@@ -178,7 +178,6 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
                 //fragment not in back stack, create it.
                 FragmentTransaction transaction = manager.beginTransaction();
                 transaction.replace(R.id.fragment_container, frag, ((Object) frag).getClass().getName());
-                transaction.addToBackStack(backStateName);
                 transaction.commit();
                 // Close drawer
                 mDrawerLayout.closeDrawer(GravityCompat.START);
